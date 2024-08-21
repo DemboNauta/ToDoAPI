@@ -34,7 +34,7 @@ namespace ToDoAPI.Controllers
         {
             string sql = "SELECT * FROM Tasks WHERE Id = @TaskIdParam";
             DynamicParameters parameters = new DynamicParameters();
-            parameters.Add("TaskIdParam", taskId);
+            parameters.Add("@TaskIdParam", taskId);
 
             return _dapper.GetDataSingleWithParams<Models.Task>(sql, parameters);
         }
@@ -57,17 +57,26 @@ namespace ToDoAPI.Controllers
                       @AssignedUserIdPram)";
 
             DynamicParameters parameters = new DynamicParameters();
-            parameters.Add("TitleParam", task.Title);
-            parameters.Add("DescriptionParam", task.Description);
-            parameters.Add("StartDateParam", task.StartDate);
-            parameters.Add("EndDateParam", task.EndDate);
-            parameters.Add("ProjectIdParam", task.ProjectId);
-            parameters.Add("AssignedUserIdPram", task.AssignedUserId);
+            parameters.Add("@TitleParam", task.Title);
+            parameters.Add("@DescriptionParam", task.Description);
+            parameters.Add("@StartDateParam", task.StartDate);
+            parameters.Add("@EndDateParam", task.EndDate);
+            parameters.Add("@ProjectIdParam", task.ProjectId);
+            parameters.Add("@AssignedUserIdPram", task.AssignedUserId);
 
 
             if (_dapper.ExecuteSqlParams(sql, parameters)) return Ok(task);
 
             return BadRequest("Failed to create Task");
+        }
+        [HttpDelete("{taskId}")]
+        public IActionResult DeleteTask(int taskId)
+        {
+            string sql = "DELETE FROM Tasks WHERE Id = @TaskId";
+            DynamicParameters parameters = new DynamicParameters();
+            parameters.Add("@TaskId", taskId);
+            if (_dapper.ExecuteSqlParams(sql, parameters)) return Ok("Task deleted");
+            return BadRequest("Failed to delete task");
         }
     }
 }

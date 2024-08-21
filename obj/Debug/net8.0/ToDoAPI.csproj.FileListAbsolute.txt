@@ -67,3 +67,4 @@ F:\Documentos\ProyectosBackend\ToDoAPI\obj\Debug\net8.0\refint\ToDoAPI.dll
 F:\Documentos\ProyectosBackend\ToDoAPI\obj\Debug\net8.0\ToDoAPI.pdb
 F:\Documentos\ProyectosBackend\ToDoAPI\obj\Debug\net8.0\ToDoAPI.genruntimeconfig.cache
 F:\Documentos\ProyectosBackend\ToDoAPI\obj\Debug\net8.0\ref\ToDoAPI.dll
+F:\Documentos\ProyectosBackend\ToDoAPI\obj\Debug\net8.0\ToDoAPI.sourcelink.json
