@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectosbackend\\todoapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectosbackend\\todoapi\\data\\datacontextdapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|solutionrelative:data\\datacontextdapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectosbackend\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectosbackend\\todoapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectosbackend\\todoapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectosbackend\\todoapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:48:08.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T10:39:22.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContextDapper.cs",
+              "DocumentMoniker": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Data\\DataContextDapper.cs",
+              "RelativeDocumentMoniker": "Data\\DataContextDapper.cs",
+              "ToolTip": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Data\\DataContextDapper.cs",
+              "RelativeToolTip": "Data\\DataContextDapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:38:53.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:28:12.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:27:20.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Models\\Task.cs",
+              "ToolTip": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Models\\Task.cs",
+              "RelativeToolTip": "Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:26:27.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

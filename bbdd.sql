@@ -1,0 +1,30 @@
+CREATE DATABASE ToDoDB
+GO
+
+USE ToDoDB
+GO
+
+CREATE TABLE Users(
+    Id INT PRIMARY KEY IDENTITY(0,1),
+    FirstName NVARCHAR(100),
+    LastName NVARCHAR(100),
+    Email NVARCHAR(255),
+)
+CREATE TABLE Projects(
+    Id INT PRIMARY KEY IDENTITY(0,1),
+    Name NVARCHAR(255),
+    Description NVARCHAR(MAX),
+    StartDate DATETIME DEFAULT GETDATE(),
+    EndDate DATETIME
+)
+CREATE TABLE Tasks(
+    Id INT PRIMARY KEY IDENTITY(0,1),
+    Title NVARCHAR(255),
+    Description NVARCHAR(MAX),
+    StartDate DATETIME DEFAULT GETDATE(),
+    EndDate DATETIME,
+    ProjectId INT,
+    AssignedUserId INT,
+    FOREIGN KEY(ProjectId) REFERENCES Projects(Id),
+    FOREIGN KEY(AssignedUserId) REFERENCES Users(Id)
+)
