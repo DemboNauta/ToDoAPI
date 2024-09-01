@@ -2153,11 +2153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\ToDoAPI.csproj",
+      "projectUniqueName": "F:\\Documentos\\Proyectos\\ToDoAPI\\ToDoAPI.csproj",
       "projectName": "ToDoAPI",
-      "projectPath": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\ToDoAPI.csproj",
+      "projectPath": "F:\\Documentos\\Proyectos\\ToDoAPI\\ToDoAPI.csproj",
       "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-      "outputPath": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\obj\\",
+      "outputPath": "F:\\Documentos\\Proyectos\\ToDoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config",

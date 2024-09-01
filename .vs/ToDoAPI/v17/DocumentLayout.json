@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\",
+  "WorkspaceRootPath": "F:\\Documentos\\Proyectos\\ToDoAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectosbackend\\todoapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectos\\todoapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectosbackend\\todoapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectosbackend\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectos\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectosbackend\\todoapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectos\\todoapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|f:\\documentos\\proyectos\\todoapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9DCA8F5-FDA5-4B60-8BD7-F2C20D62E9F0}|ToDoAPI.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,22 +32,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Task.cs",
-              "DocumentMoniker": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Models\\Task.cs",
+              "DocumentMoniker": "F:\\Documentos\\Proyectos\\ToDoAPI\\Models\\Task.cs",
               "RelativeDocumentMoniker": "Models\\Task.cs",
-              "ToolTip": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Models\\Task.cs",
+              "ToolTip": "F:\\Documentos\\Proyectos\\ToDoAPI\\Models\\Task.cs",
               "RelativeToolTip": "Models\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T12:03:56.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Program.cs",
+              "DocumentMoniker": "F:\\Documentos\\Proyectos\\ToDoAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Program.cs",
+              "ToolTip": "F:\\Documentos\\Proyectos\\ToDoAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,29 +56,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TaskController.cs",
-              "DocumentMoniker": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Controllers\\TaskController.cs",
+              "DocumentMoniker": "F:\\Documentos\\Proyectos\\ToDoAPI\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
-              "ToolTip": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "F:\\Documentos\\Proyectos\\ToDoAPI\\Controllers\\TaskController.cs",
               "RelativeToolTip": "Controllers\\TaskController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T11:29:20.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T11:29:20.408Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ProjectController.cs",
-              "DocumentMoniker": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Controllers\\ProjectController.cs",
+              "DocumentMoniker": "F:\\Documentos\\Proyectos\\ToDoAPI\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
-              "ToolTip": "F:\\Documentos\\ProyectosBackend\\ToDoAPI\\Controllers\\ProjectController.cs",
+              "ToolTip": "F:\\Documentos\\Proyectos\\ToDoAPI\\Controllers\\ProjectController.cs",
               "RelativeToolTip": "Controllers\\ProjectController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAIwD8AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T11:26:02.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T11:26:02.004Z"
             }
           ]
         }
