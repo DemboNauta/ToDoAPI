@@ -95,8 +95,7 @@ Puedes interactuar con la API utilizando herramientas como [Postman](https://www
 
 ## Notas
 
-- Asegúrate de tener .NET 6 instalado en tu máquina para ejecutar el proyecto.
-- Para más información sobre cómo trabajar con Entity Framework Core y ASP.NET Core, consulta la [documentación oficial de Microsoft](https://docs.microsoft.com/en-us/aspnet/core/).
+- Asegúrate de tener .NET 8 instalado en tu máquina para ejecutar el proyecto.
 
 ## Licencia
 
