@@ -38,8 +38,6 @@ ToDoAPI es una API RESTful construida con .NET que proporciona un backend para u
    - Modifica el archivo `appsettings.json` para configurar la cadena de conexión a tu base de datos.
    - Ejecuta las migraciones para crear las tablas necesarias:
 
-    dotnet ef database update
-    ```
 
 4. **Iniciar la aplicación:**
 
